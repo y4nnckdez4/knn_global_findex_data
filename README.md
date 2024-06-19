@@ -1,2 +1,4 @@
-# knn_global_findex_data
-An application of K-Means on financial inclusion data on African countries 
+# Financial inclusion in Africa: K-Means clustering on Global Findex Data
+The purpose of this study is to cluster African countries based on Global Findex Database survey on financial inclusion. 
+
+ 
